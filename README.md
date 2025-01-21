@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me not at the moment
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I got a perfect score for a Mustache playing lacrosse: <a href="https://laxallstars.com/mustache-rankings-world-championships/" target="_blank">Proof</a>
+- ⚡ Fun fact: I got a perfect score for a Mustache playing lacrosse:
+-[proof](https://laxallstars.com/mustache-rankings-world-championships/]{:target="_blank"}
+- <a href="https://laxallstars.com/mustache-rankings-world-championships/" target="_blank">Proof</a>
 
 
 <!---
