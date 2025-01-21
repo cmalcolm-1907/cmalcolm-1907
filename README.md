@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me not at the moment
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I got a perfect score for a Mustache playing lacrosse: [proof](https://laxallstars.com/tags/2018-fil-world-lacrosse-championship/)
+- ⚡ Fun fact: I got a perfect score for a Mustache playing lacrosse: [proof](https://laxallstars.com/tags/2018-fil-world-lacrosse-championship/){:target="_blank"} 
 
 <!---
 cmalcolm-1907/cmalcolm-1907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
