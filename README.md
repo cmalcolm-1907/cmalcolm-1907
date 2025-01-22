@@ -1,4 +1,4 @@
-- 👋 Hi, I’m CJ @cmalcolm-1907
+- 👋 Hi, I’m Christopher James Malcolm
 - 👀 I’m interested in Gamedev, webdev, data analysis
 - 🌱 I’m currently learning python, sql, html
 - 💞️ I’m looking to collaborate on nothing right now
